@@ -1,4 +1,6 @@
 # Тестовый репозиторий
+Добавим некоторую информацию.
+
 ![Bootstrap logo](https://i.imgur.com/qhtywl2.png)
 
 Построен на базе следующих технологий:
@@ -25,3 +27,4 @@
  integrity="sha284-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkF0JwJ8ERdknLPMO"
  crossorigin="anonymous">
 ```
+
